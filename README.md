@@ -2,8 +2,6 @@
 
 ```csharp
 github.com/condictous
-dc   $  @responsions
-srv  $  discord.gg/osama
-web  $  cvt.lol/$
+web  $  cvt.lol/$ / cvt.lol/r
 ```
 &zwnj; 
