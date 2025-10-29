@@ -2,6 +2,6 @@
 
 ```csharp
 github.com/condictous
-web  $  cvt.lol/$ / cvt.lol/r
+web  $  egirl.lat/r
 ```
 &zwnj; 
